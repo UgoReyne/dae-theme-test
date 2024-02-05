@@ -4,5 +4,5 @@ header.dashboard-header nav #header {
 }
 
 .login-count, .username-area .user-head-email {
-  display: none
+  display: none !important;
 }
