@@ -2,3 +2,7 @@ header.dashboard-header nav #header {
   background-size: 120px 40px !important;
   background-image: url("https://fr.sodexo.com/files/live/sites/com-global/files/00_Brand_Roll_Out/SODEXO_Logotype_2021_WhiteBackground_120x40.png") !important;
 }
+
+.login-count {
+  display: none
+}
